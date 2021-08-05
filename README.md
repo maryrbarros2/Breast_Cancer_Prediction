@@ -1,8 +1,14 @@
 # Breast_Cancer_Prediction
 
 Breast Cancer Prediction and Data Visualization 
-Using K-Nearest Neighbor (KNN) Classifier Algorithm
+
+- Using K-Nearest Neighbor (KNN) Classifier Algorithm
 K-Nearest Neighbors: algorithm for supervised learning. Data is 'trained' with data points corresponding to their classification. Once a point is to be predicted, it takes into account the 'K' nearest points to it to determine it's classification.
+
+- Using Support Vector Machine (SVM) Classifier Algorithm
+SVM: maps data to a high-dimensional feature space so that data points can be categorized, even when the data are not otherwise linearly separable. A separator between the categories is found, then the data is transformed in such a way that the separator could be drawn as a hyperplane. Following this, characteristics of new data can be used to predict the group to which a new record should belong.
+
+
 
 Dataset: Breast Cancer Wisconsin (Diagnostic) Data Set (https://www.kaggle.com/uciml/breast-cancer-wisconsin-data/)
 
